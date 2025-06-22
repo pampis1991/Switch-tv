@@ -1,0 +1,43 @@
+#EXTM3U
+
+########## 📺 INFANTILES ##########
+#EXTINF:-1 tvg-id="DisneyChannel.mx" group-title="Infantiles", Disney Channel
+https://linear-401.frequency.stream/401/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Infantiles", Cartoon Network
+https://live.fxtv.com/cartoonnetwork.m3u8
+#EXTINF:-1 group-title="Infantiles", Discovery Kids
+https://linear-404.frequency.stream/404/hls/master/playlist.m3u8
+
+########## 🎬 PELÍCULAS ##########
+#EXTINF:-1 group-title="Películas", Cine Mexicano
+https://stmv1.srvif.com/cinemexicano/cinemexicano/playlist.m3u8
+#EXTINF:-1 group-title="Películas", De Película
+https://ott.cdn.televisa.com/depelicula/master.m3u8
+#EXTINF:-1 group-title="Películas", Cine Latino
+https://tv.streaminglatino.net:1936/8132/8132/playlist.m3u8
+
+########## ⚽ DEPORTES ##########
+#EXTINF:-1 group-title="Deportes", TUDN
+https://ott.cdn.televisa.com/tudn/master.m3u8
+#EXTINF:-1 group-title="Deportes", ESPN
+https://live.fxtv.com/espn.m3u8
+#EXTINF:-1 group-title="Deportes", Fox Sports
+https://foxsportslive.com/live/foxsports.m3u8
+
+########## 🇲🇽 CANALES NACIONALES MÉXICO ##########
+#EXTINF:-1 group-title="México", Las Estrellas
+https://ott.cdn.televisa.com/lasestrellas/master.m3u8
+#EXTINF:-1 group-title="México", Canal 5
+https://ott.cdn.televisa.com/canal5/master.m3u8
+#EXTINF:-1 group-title="México", TV Azteca Uno
+https://aztecauno-lh.akamaihd.net/i/aztecauno_1@379795/master.m3u8
+#EXTINF:-1 group-title="México", Canal Once
+https://canaloncetv.tvmexico.live/hls/canalonce.m3u8
+
+########## 🔞 ADULTOS (18+) ##########
+#EXTINF:-1 group-title="Adultos", Playboy TV
+http://iptv.adultserver.com/playboy/playlist.m3u8
+#EXTINF:-1 group-title="Adultos", Venus
+http://iptv.adultserver.com/venus/playlist.m3u8
+#EXTINF:-1 group-title="Adultos", Penthouse
+http://iptv.adultserver.com/penthouse/playlist.m3u8
